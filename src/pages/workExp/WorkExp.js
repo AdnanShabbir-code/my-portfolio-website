@@ -22,7 +22,7 @@ const WorkExp = () => {
               contentArrowStyle={{
                 borderRight: "7px solid  white",
               }}
-              date="September 2024 - September 2025"
+              date="From 2022 "
               iconStyle={{ background: "#1e1e2c", color: "#fff" }}
               icon={<MdWorkOutline/>}
             >
