@@ -69,7 +69,7 @@ const Projects = () => {
      
                   <a
                     className="ad-btn"
-                    href="https://github.com/AdnanShabbir-code"
+                    href="https://github.com/AdnanShabbir-code/my-portfolio-website"
                   >
                     Github 
                   </a>
