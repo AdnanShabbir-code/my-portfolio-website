@@ -19,7 +19,7 @@ const Projects = () => {
                 <div className="card-image">
                   <span className="card-notify-badge">FrontEnd</span>
                   <img
-                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGazUyzTSv1KTHLFtBqF2l5AE_6R6Z-sJoSA&s"
+                    src="https://www.teacherfiles.com/clip_art_time_clocks.htm"
                     alt="project1"
                   />
                 </div>
