@@ -53,6 +53,23 @@ const Education = () => {
             </h4>
             <a href="https://drive.google.com/file/d/12nJhzNPIwc_Q6mHzPbnjT0inMXYG3FtH/view">Certificate</a>
           </VerticalTimelineElement>
+
+               <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: "white", color: "black" }}
+            contentArrowStyle={{ borderRight: "7px solid  white" }}
+            date="February, 2024"
+            iconStyle={{ background: "#138781", color: "#fff" }}
+            icon={<PiCertificate />}
+          >
+            <h3 className="vertical-timeline-element-title">Full Stack Development</h3>
+            <h4 className="vertical-timeline-element-subtitle">
+              TechStack, </h4 >
+              <h4> Delhi, India
+            </h4>
+            <a href="https://drive.google.com/file/d/1xeMbXVroMabuJHZe3m4_IrGBKBIJhMls/view</a>
+          </VerticalTimelineElement>
+              
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentStyle={{ background: "white", color: "black" }}
