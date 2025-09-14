@@ -65,9 +65,9 @@ const Education = () => {
             <h3 className="vertical-timeline-element-title">Full Stack Development</h3>
             <h4 className="vertical-timeline-element-subtitle">
               TechStack, </h4 >
-              <h4> Delhi, India
+              <h4>Delhi, India
             </h4>
-            <a href="https://drive.google.com/file/d/1xeMbXVroMabuJHZe3m4_IrGBKBIJhMls/view</a>
+            <a href="https://drive.google.com/file/d/1xeMbXVroMabuJHZe3m4_IrGBKBIJhMls/view">Certificate</a>
           </VerticalTimelineElement>
               
           <VerticalTimelineElement
