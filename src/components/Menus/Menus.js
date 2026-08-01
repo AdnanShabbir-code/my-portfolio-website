@@ -1,7 +1,6 @@
 import React from "react";
 import "./Menus.css";
 import { Link } from "react-scroll";
-import profilePic from './me.jpg';
 import {
   FcAbout,
   FcBiotech,
@@ -18,7 +17,7 @@ const Menus = ({ toggle }) => {
         <>
           
             <div className="navbar-profile-pic">
-            <img src={profilePic} alt="Profile Picture" />
+            <img src="https://github.com/AdnanShabbir-code.png" alt="profile picture" />
             </div>
         
      
