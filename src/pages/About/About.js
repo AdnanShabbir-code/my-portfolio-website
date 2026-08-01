@@ -1,6 +1,5 @@
 import React from "react";
 import "./About.css";
-  import profilePic from './me.jpg.jpg';
 const About=() => {
   return (
     <>
@@ -8,7 +7,7 @@ const About=() => {
       <div className="about" id="about">
         <div className="row">
           <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-img">
-            <img src={profilePic} alt="profile picture" />
+            <img src="https://github.com/AdnanShabbir-code.png" alt="profile picture" />
           </div>
           <div className="col-md-6 col-xl-6 col-lg-6 col-xs-12 about-content">
             <h1>About me</h1>
