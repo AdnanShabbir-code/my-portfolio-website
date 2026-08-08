@@ -48,7 +48,7 @@ const Education = () => {
           >
             <h3 className="vertical-timeline-element-title">DSA & MERN Stack</h3>
             <h4 className="vertical-timeline-element-subtitle">
-              AcciJob, </h4>
+              AccioJob, </h4>
               <h4 >Delhi, India
             </h4>
             <a href="https://drive.google.com/file/d/12nJhzNPIwc_Q6mHzPbnjT0inMXYG3FtH/view">Certificate</a>
@@ -82,48 +82,6 @@ const Education = () => {
             <h4 className="vertical-timeline-element-subtitle">
               Aahvaan (DTU) </h4>
               <a href="https://drive.google.com/file/d/13YMH2SDIpURRcyVRtewADlVOlINk-9Tb/view">Certificate</a>       
-          </VerticalTimelineElement>
-          <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            contentStyle={{ background: "white", color: "black" }}
-            contentArrowStyle={{ borderRight: "7px solid  white" }}
-            date="April, 2023"
-            iconStyle={{ background: "#138781", color: "#fff" }}
-            icon={<PiCertificate />}
-          >
-            <h3 className="vertical-timeline-element-title">1st position at gitarattan international business school</h3>
-            <h4 className="vertical-timeline-element-subtitle">
-              (Rohini) Delhi </h4>
-              <a href="https://drive.google.com/file/d/13HtYepgejumZmGHGbZud3Ty3nia2wZ-k/view">Certificate</a>       
-          </VerticalTimelineElement>
-          <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            contentStyle={{ background: "white", color: "black" }}
-            contentArrowStyle={{ borderRight: "7px solid  white" }}
-            date="November, 2024"
-            iconStyle={{ background: "#138781", color: "#fff" }}
-            icon={<PiCertificate />}
-          >
-            <h3 className="vertical-timeline-element-title">Set up, manage and monitor a branch office network</h3>
-            <h4 className="vertical-timeline-element-subtitle">
-              Exploring networking with cisco packet tracer </h4>
-              <a href="https://drive.google.com/file/d/13BG-OWnYBc3zp4bEDsgdNtrMkxHELojk/view">Certificate</a>       
-          </VerticalTimelineElement>
-
-        <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            contentStyle={{ background: "white", color: "black" }}
-            contentArrowStyle={{ borderRight: "7px solid  white" }}
-            date="April, 2023"
-            iconStyle={{ background: "#138781", color: "#fff" }}
-            icon={<PiCertificate />}
-          >
-            <h3 className="vertical-timeline-element-title">2nd Position at Delhi technological university</h3>
-            <h4 className="vertical-timeline-element-subtitle">
-              Aahvaan(DTU),
-            
-            </h4>
-            <a href="https://drive.google.com/file/d/13-cHbPbXPDwuwr2pvtBX0j1VNqapynbt/view">Certificate</a>
           </VerticalTimelineElement>
 
 

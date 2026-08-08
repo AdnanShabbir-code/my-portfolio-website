@@ -54,7 +54,7 @@ export const TechstackList = [
   
   {
     _id: 7,
-    name: "React MUI",
+    name: "Google BigQuery",
     icon: SiMui,
   },
 
@@ -102,17 +102,17 @@ export const TechstackList = [
   },
     {
     _id: 16,
-    name: "Scikitlearn",
+    name: "KeyCloak",
     icon: SiScikitlearn,
   },
   {
     _id: 17,
-    name: "Tensorflow ",
+    name: "MongoDB",
     icon: SiTensorflow ,
   },
   {
     _id: 18,
-    name: "PowerBI ",
+    name: "Postman",
     icon: BiBarChartAlt ,
   },
   {
@@ -123,7 +123,7 @@ export const TechstackList = [
 
   {
     _id: 20,
-    name: "Jupyter Notebook",
+    name: "RabbitMq",
     icon: SiJupyter,
   },
 

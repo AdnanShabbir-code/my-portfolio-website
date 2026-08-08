@@ -9,7 +9,7 @@ const Projects = () => {
         </h2>
         <hr />
         <p className="pb-3 text-center">
-        A curated collection of full-stack and data driven projects built with React,HTML,CSS, and JavaScript, demonstrating my ability to develop scalable applications, analyze datasets, and deliver intelligent, real-world solutions
+        A curated collection of full-stack and data driven projects demonstrating my ability to develop scalable applications, analyze datasets, and deliver intelligent, real-world solutions
         </p>
         {/* card design */}
         <div className="row" id="ads">
@@ -17,22 +17,33 @@ const Projects = () => {
             <div className="col-md-4">
               <div style={{ marginBottom: "20px" }} className="card rounded">
                 <div className="card-image">
-                  <span className="card-notify-badge">FrontEnd</span>
+                  <span className="card-notify-badge">Full Stack</span>
                   <img
-                    src="https://i.pinimg.com/736x/d9/93/4f/d9934f2d3564c3efad52f92844483e5c.jpg"
+                    src="https://play-lh.googleusercontent.com/xxGgPENjxrH2_yQ37oGegaM2lQMe-Zy-8UL7Oh4vhELizZmL0eKVQYGQVJH6XXqKa-Kly13SVLLzPzeSleqfdQ"
                     alt="project1"
                   />
                 </div>
                 <div className="card-image-overly m-auto mt-3">
-                  <span className="card-detail-badge">HTML</span>
-                  <span className="card-detail-badge">CSS</span>
-                  <span className="card-detail-badge">Java Script</span>
+                  <span className="card-detail-badge">Java</span>
+                  <span className="card-detail-badge">Spring Boot</span>
+                  <span className="card-detail-badge">Eureka Server</span>
+                  <span className="card-detail-badge">API Gateway</span>
+                  <span className="card-detail-badge">RabbitMq</span>
+                  <span className="card-detail-badge">Spring AI</span>
+                  <span className="card-detail-badge">Google Gemini API</span>
+                  <span className="card-detail-badge">KeyCloak</span>
+                  <span className="card-detail-badge">React</span>
+                  <span className="card-detail-badge">MySQL</span>
+                  <span className="card-detail-badge">MongoDB</span>
+                  <span className="card-detail-badge">PostgreSQL</span>
+                  <span className="card-detail-badge">Postman</span>
+                  <span className="card-detail-badge">Docker</span>
                   
                 </div>
                 <div className="card-body text-center">
                   <div className="ad-title m-auto">
                     <h6 className="text-uppercase">
-                      ANALOG CLOCK
+                      AI Fitness Tracker
                     </h6>
                   </div>
                 
@@ -57,7 +68,7 @@ const Projects = () => {
                 </div>
                 <div className="card-image-overly m-auto mt-3">
                   <span style={{ marginLeft: "20px" }} className="card-detail-badge">React</span>
-                  <span style={{ marginLeft: "25px" }} className="card-detail-badge">EmailJs</span>
+                  <span style={{ marginLeft: "25px" }} className="card-detail-badge">Formspree</span>
                   <span style={{ marginLeft: "20px" }} className="card-detail-badge">Bootstrap</span>
                   <span style={{ marginLeft: "40px" }}className="card-detail-badge">SPA Design</span>
                   <span className="card-detail-badge">React MUI</span>

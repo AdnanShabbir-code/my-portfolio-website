@@ -29,7 +29,7 @@ function App() {
         </div>
         <div className="footer pb-3 ms-3">
         
-            <h4 className="text-center">Developed by Adnan Shabbir &copy; 2025</h4>
+            <h4 className="text-center">Developed by Adnan Shabbir &copy; 2026</h4>
         
         </div>
       </div>
