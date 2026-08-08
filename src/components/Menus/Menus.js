@@ -1,10 +1,6 @@
 import React from "react";
 import "./Menus.css";
 import { Link } from "react-scroll";
-<<<<<<< HEAD
-//import profilePic from './me.jpg';
-=======
->>>>>>> 1db725e238309fe4f1b8078555a3fce60e5430bc
 import {
   FcAbout,
   FcBiotech,
